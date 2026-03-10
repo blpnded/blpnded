@@ -3,7 +3,6 @@
 ---
 
 ## 💻 About Me
-- 🎓 A student at **SMK Negeri 4 Banjarmasin**  
 - ⚡ Known for being **fast** at getting things done  
 - ✨ I love things that are **simple yet cool**  
 - 🧠 Smart at creating **strategies** to solve challenges  
