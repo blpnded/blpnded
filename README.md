@@ -12,8 +12,9 @@
 ---
 
 ## 🚀 Featured Projects
-- 🖥️ [**Jadwal Kuliah UNLAM FISIP Banjarmasin**](https://github.com/feinoire/UNLAM-Fisip-Schedule)  
-- 🖥️ [**Excel Converter**](https://github.com/fhzfso/Excel-Converter)
+- 🖥️ [**Jadwal Kuliah UNLAM FISIP Banjarmasin**](https://github.com/blpnded/UNLAM-Fisip-Schedule)  
+- 🖥️ [**Excel Converter**](https://github.com/blpnded/Excel-Converter)
+- 🖥️ [**Parkir Pintar**](https://github.com/blpnded/parkir-pintar)
 ---
 
 # 🛠️ Tech Stack  
